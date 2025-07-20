@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/UTEC/I/Circuitos_digitales/hw_proyecto/project_prueba/project_prueba.srcs/sources_1/new/memoria.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mod15_ram'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/UTEC/I/Circuitos_digitales/hw_proyecto/project_prueba/project_prueba.srcs/sim_1/new/tb_memoria.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mod15_ram_tb'

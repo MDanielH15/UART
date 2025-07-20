@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon Jul 14 15:29:36 2025
+# Process ID: 19692
+# Current directory: D:/UTEC/I/Circuitos_digitales/hw/hw.runs/impl_1
+# Command line: vivado.exe -log XADCdemo.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source XADCdemo.tcl -notrace
+# Log file: D:/UTEC/I/Circuitos_digitales/hw/hw.runs/impl_1/XADCdemo.vdi
+# Journal file: D:/UTEC/I/Circuitos_digitales/hw/hw.runs/impl_1\vivado.jou
+# Running On: DESKTOP-1JLB5A2, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 17054 MB
+#-----------------------------------------------------------
+source XADCdemo.tcl -notrace
